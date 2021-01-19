@@ -1,0 +1,6 @@
+// import './advanced-types'
+// import './utility-types'
+// import './decorators'
+// import './declaration-merging'
+// import './iterators-generators'
+import './type-compatibility'

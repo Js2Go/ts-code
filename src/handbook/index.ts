@@ -1,0 +1,8 @@
+// import './basic'
+// import './interface'
+// import './functions'
+// import './literal'
+// import './union-intersection'
+// import './classes'
+// import './enums'
+import './generics'
